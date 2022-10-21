@@ -19,7 +19,7 @@
 15. Trolley Wheel
 16. Momentary Tactile Push button Switch PCB Mount 
 
-# PROTO TYPING IMAGES:
+# PROTOTYPING IMAGES:
 ![WhatsApp Image 2022-10-19 at 20 07 10](https://user-images.githubusercontent.com/116276051/197117102-df12d6aa-9d73-49a5-bd85-9ef2a7907b0f.jpeg)
 ![WhatsApp Image 2022-10-21 at 10 47 08](https://user-images.githubusercontent.com/116276051/197117872-d85a3de8-70b6-4258-96f2-81745ad4b126.jpeg)
 ![WhatsApp Image 2022-10-19 at 20 07 11](https://user-images.githubusercontent.com/116276051/197118033-7d2be19f-b2cb-437d-9796-4aa151404b0b.jpeg)
