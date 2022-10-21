@@ -18,3 +18,7 @@
 14. BO Motor wheel 65mm-Dia 30mm- width
 15. Trolley Wheel
 16. Momentary Tactile Push button Switch PCB Mount 
+
+# PROTO TYPING IMAGES:
+![WhatsApp Image 2022-10-19 at 20 07 10](https://user-images.githubusercontent.com/116276051/197117102-df12d6aa-9d73-49a5-bd85-9ef2a7907b0f.jpeg)
+
